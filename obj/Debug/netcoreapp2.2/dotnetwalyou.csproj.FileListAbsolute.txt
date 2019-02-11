@@ -1,0 +1,14 @@
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/dotnetwalyou.deps.json
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/dotnetwalyou.runtimeconfig.json
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/dotnetwalyou.runtimeconfig.dev.json
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/dotnetwalyou.dll
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/dotnetwalyou.pdb
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.csprojAssemblyReference.cache
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.csproj.CoreCompileInputs.cache
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.RazorAssemblyInfo.cache
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.RazorAssemblyInfo.cs
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.AssemblyInfoInputs.cache
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.AssemblyInfo.cs
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.RazorTargetAssemblyInfo.cache
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.dll
+/home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.pdb
