@@ -12,3 +12,5 @@
 /home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.RazorTargetAssemblyInfo.cache
 /home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.dll
 /home/aung/Projects/dotnetwalyou/obj/Debug/netcoreapp2.2/dotnetwalyou.pdb
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config
+/home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/credentials.json

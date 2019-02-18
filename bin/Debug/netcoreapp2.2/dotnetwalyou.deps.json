@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "2771c59f5dfe9aa2f981f32ccb355b7eecc5ae1a"
+    "signature": "9cc453e0fe24b9dd7860746d56529b76b3db6165"
   },
   "compilationOptions": {
     "defines": [
@@ -24,20 +24,36 @@
     ".NETCoreApp,Version=v2.2": {
       "dotnetwalyou/1.0.0": {
         "dependencies": {
+          "AE.Net.Mail": "1.7.10",
           "Dapper": "1.50.5",
+          "Google.Apis.Gmail.v1": "1.38.0.1495",
           "JWT": "4.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.Extensions.Configuration.Json": "2.2.0",
           "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "2.2.10",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "NLog": "4.5.11",
+          "NLog.Web.AspNetCore": "4.8.0",
+          "System.Text.Encoding.CodePages": "4.5.1"
         },
         "runtime": {
           "dotnetwalyou.dll": {}
         },
         "compile": {
           "dotnetwalyou.dll": {}
+        }
+      },
+      "AE.Net.Mail/1.7.10": {
+        "runtime": {
+          "lib/net45/AE.Net.Mail.dll": {
+            "assemblyVersion": "1.7.10.0",
+            "fileVersion": "1.7.10.0"
+          }
+        },
+        "compile": {
+          "lib/net45/AE.Net.Mail.dll": {}
         }
       },
       "Dapper/1.50.5": {
@@ -54,6 +70,70 @@
         },
         "compile": {
           "lib/netstandard2.0/Dapper.dll": {}
+        }
+      },
+      "Google.Apis/1.38.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.38.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {
+            "assemblyVersion": "1.38.0.0",
+            "fileVersion": "1.38.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.dll": {}
+        }
+      },
+      "Google.Apis.Auth/1.38.0": {
+        "dependencies": {
+          "Google.Apis": "1.38.0",
+          "Google.Apis.Core": "1.38.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {
+            "assemblyVersion": "1.38.0.0",
+            "fileVersion": "1.38.0.0"
+          },
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.38.0.0",
+            "fileVersion": "1.38.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {},
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {}
+        }
+      },
+      "Google.Apis.Core/1.38.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.38.0.0",
+            "fileVersion": "1.38.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {}
+        }
+      },
+      "Google.Apis.Gmail.v1/1.38.0.1495": {
+        "dependencies": {
+          "Google.Apis": "1.38.0",
+          "Google.Apis.Auth": "1.38.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Gmail.v1.dll": {
+            "assemblyVersion": "1.38.0.1495",
+            "fileVersion": "1.38.0.1495"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Gmail.v1.dll": {}
         }
       },
       "JWT/4.0.0": {
@@ -308,6 +388,49 @@
           "Microsoft.NETCore.Platforms": "2.2.0"
         }
       },
+      "NLog/4.5.11": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.11.8645"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
+      "NLog.Extensions.Logging/1.4.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "2.2.0",
+          "NLog": "4.5.11"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.Extensions.Logging.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.4.0.867"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/NLog.Extensions.Logging.dll": {}
+        }
+      },
+      "NLog.Web.AspNetCore/4.8.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
+          "Microsoft.AspNetCore.Http": "2.2.0",
+          "Microsoft.AspNetCore.Routing.Abstractions": "2.2.0",
+          "NLog.Extensions.Logging": "1.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.Web.AspNetCore.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.982.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/NLog.Web.AspNetCore.dll": {}
+        }
+      },
       "System.ComponentModel/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -490,6 +613,17 @@
         }
       },
       "System.Reflection.TypeExtensions/4.4.0": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.1",
+            "fileVersion": "4.0.0.0"
+          }
+        },
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
       "System.Runtime.Serialization.Formatters/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -497,6 +631,29 @@
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0"
+        }
+      },
+      "System.Text.Encoding.CodePages/4.5.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.2.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.6.27129.4"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.6.27129.4"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {}
         }
       },
       "System.Threading.Overlapped/4.0.1": {
@@ -1588,7 +1745,7 @@
           "System.IO.Pipelines": "4.5.2",
           "System.Memory": "4.5.1",
           "System.Numerics.Vectors": "4.5.0",
-          "System.Runtime.CompilerServices.Unsafe": "4.5.1",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2",
           "System.Security.Principal.Windows": "4.5.0"
         },
         "compile": {
@@ -1620,7 +1777,7 @@
           "Microsoft.Net.Http.Headers": "2.2.0",
           "System.Memory": "4.5.1",
           "System.Numerics.Vectors": "4.5.0",
-          "System.Runtime.CompilerServices.Unsafe": "4.5.1",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2",
           "System.Security.Cryptography.Cng": "4.5.0",
           "System.Threading.Tasks.Extensions": "4.5.1"
         },
@@ -1810,7 +1967,7 @@
           "System.Security.Cryptography.Encoding": "4.3.0",
           "System.Security.Cryptography.X509Certificates": "4.3.0",
           "System.Text.Encoding": "4.3.0",
-          "System.Text.Encoding.CodePages": "4.5.0",
+          "System.Text.Encoding.CodePages": "4.5.1",
           "System.Text.Encoding.Extensions": "4.3.0",
           "System.Threading": "4.3.0",
           "System.Threading.Tasks": "4.3.0",
@@ -2358,7 +2515,7 @@
       "Microsoft.Extensions.Primitives/2.2.0": {
         "dependencies": {
           "System.Memory": "4.5.1",
-          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
@@ -2699,7 +2856,7 @@
         "dependencies": {
           "Microsoft.Win32.Registry": "4.5.0",
           "System.Security.Principal.Windows": "4.5.0",
-          "System.Text.Encoding.CodePages": "4.5.0",
+          "System.Text.Encoding.CodePages": "4.5.1",
           "runtime.native.System.Data.SqlClient.sni": "4.5.0"
         },
         "compile": {
@@ -3093,12 +3250,6 @@
         },
         "compileOnly": true
       },
-      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
-        "compile": {
-          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
-        },
-        "compileOnly": true
-      },
       "System.Runtime.Extensions/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.2.0",
@@ -3355,13 +3506,6 @@
         },
         "compileOnly": true
       },
-      "System.Text.Encoding.CodePages/4.5.0": {
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.2.0",
-          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
-        },
-        "compileOnly": true
-      },
       "System.Text.Encoding.Extensions/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.2.0",
@@ -3544,12 +3688,47 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AE.Net.Mail/1.7.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+651Yhh3z+kLcZUnlQOyhXu/g7lgBOayUebwi6OVXmELkoGkndlavPBgQfZYRoBXgwV3OYQboBM9pL2BCK2MwA==",
+      "path": "ae.net.mail/1.7.10",
+      "hashPath": "ae.net.mail.1.7.10.nupkg.sha512"
+    },
     "Dapper/1.50.5": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-AzAdZ9fEzUtav3Sbc5CMgz5O2oYkc5g1r+g1h/Vn+wqcInII+xtNEfyZryeW90Wq72bxjEBJhe18j+2SrGrc5A==",
       "path": "dapper/1.50.5",
       "hashPath": "dapper.1.50.5.nupkg.sha512"
+    },
+    "Google.Apis/1.38.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yLlM5vMaT/Qsc0bTyLFqfevLuH7cb3wteHQjAU4XA683BWUqueFxWjLJGjxYqNoHo0F1aohNf8y9dQoz4hyKHA==",
+      "path": "google.apis/1.38.0",
+      "hashPath": "google.apis.1.38.0.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.38.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f5M8xPj3n8w36nOyQEOhE47GIIy+blVRZd5zBmqdofqtWjXP0IYuRuyHOooSZJHg+QNi+7c4x/N6ovf8I9nJJA==",
+      "path": "google.apis.auth/1.38.0",
+      "hashPath": "google.apis.auth.1.38.0.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.38.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PQ4dU+lMepd8P/WYTrFZL35KnPJAxc/WBuCEwjjeV3G64wouYmRrFtHhGX3BngImmh2a9BNMIbQlXjmrIwyxQg==",
+      "path": "google.apis.core/1.38.0",
+      "hashPath": "google.apis.core.1.38.0.nupkg.sha512"
+    },
+    "Google.Apis.Gmail.v1/1.38.0.1495": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PirdS56WbLLol0T9iSLnVaKdPY3weK8tNYyCImM9JDCyWtOghtd2hfav1cLozr+HPlO0lJhUEwTUaZhaKHdHUA==",
+      "path": "google.apis.gmail.v1/1.38.0.1495",
+      "hashPath": "google.apis.gmail.v1.1.38.0.1495.nupkg.sha512"
     },
     "JWT/4.0.0": {
       "type": "package",
@@ -3628,6 +3807,27 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
+    "NLog/4.5.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7TI+dYvEIOcCN6fjr3yjMN5AtPBSbHNxKGmn/5rkqbBk81MGsnQBkParoGOidibDIe3dwThJJndxl7O3zmd3rA==",
+      "path": "nlog/4.5.11",
+      "hashPath": "nlog.4.5.11.nupkg.sha512"
+    },
+    "NLog.Extensions.Logging/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FvCGr0FSntm9a8z/QaZv9+01LmEXh9NZ44BExArAn+kwyhPJCze5lnPekoHo0iWUKnwNtJFUo/9XOjFfIs0GXQ==",
+      "path": "nlog.extensions.logging/1.4.0",
+      "hashPath": "nlog.extensions.logging.1.4.0.nupkg.sha512"
+    },
+    "NLog.Web.AspNetCore/4.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UPfIgh06dHYkeEayBrmtuRQ1MjPNHytZI64FCP/IwO5JaXuEQ63HFYiwVuEo/oUTE5k3UKhwnuiKR4XMKyjjXg==",
+      "path": "nlog.web.aspnetcore/4.8.0",
+      "hashPath": "nlog.web.aspnetcore.4.8.0.nupkg.sha512"
+    },
     "System.ComponentModel/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3698,12 +3898,26 @@
       "path": "system.reflection.typeextensions/4.4.0",
       "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
     },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMkdWxksypQlFXB7JamQegDscxEAQO4FHd/lw/zlSZU9dZgAij65xjCrXer183wvoNAzJic5zzjj2oc9/dloWg==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
     "System.Runtime.Serialization.Formatters/4.3.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "hashPath": "system.runtime.serialization.formatters.4.3.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Eu3dyUUqDFkuskrrK54VLWC41EVANJNo5vzjojnGAphH+FV63NJg3zs5x0TvRaYDTZ2y+86eIOK43Hg2NXiw7w==",
+      "path": "system.text.encoding.codepages/4.5.1",
+      "hashPath": "system.text.encoding.codepages.4.5.1.nupkg.sha512"
     },
     "System.Threading.Overlapped/4.0.1": {
       "type": "package",
@@ -5371,13 +5585,6 @@
       "path": "system.runtime/4.3.0",
       "hashPath": "system.runtime.4.3.0.nupkg.sha512"
     },
-    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-qUJMNWhbm9oZ3XaMFiEMiYmRPszbnXIkRIi7+4b2Md2xZ6JUOepf0/kY3S85qistRohl9OdMe4PsO+RdG2kTIQ==",
-      "path": "system.runtime.compilerservices.unsafe/4.5.1",
-      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
-    },
     "System.Runtime.Extensions/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -5531,13 +5738,6 @@
       "sha512": "sha512-BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
       "path": "system.text.encoding/4.3.0",
       "hashPath": "system.text.encoding.4.3.0.nupkg.sha512"
-    },
-    "System.Text.Encoding.CodePages/4.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-16EVkWmNnoH3/Yj9c5s5VuLK5Uv/Dnkc3P2kMmnD7wJcUuvcHVvM2IhVJanf2hHRZUitH+cIkPCPHrBoCXc7Rw==",
-      "path": "system.text.encoding.codepages/4.5.0",
-      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
     },
     "System.Text.Encoding.Extensions/4.3.0": {
       "type": "package",

@@ -6,13 +6,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AE.Net.Mail" Version="1.7.10.0" />
     <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Google.Apis.Gmail.v1" Version="1.38.0.1495" />
     <PackageReference Include="JWT" Version="4.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="2.2.10" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.8.0" />
+    <PackageReference Include="NLog" Version="4.5.11" />
+    <Content Update="nlog.config" CopyToOutputDirectory="PreserveNewest" />
+    <Content Update="credentials.json" CopyToOutputDirectory="PreserveNewest" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.1" />
   </ItemGroup>
 
 </Project>

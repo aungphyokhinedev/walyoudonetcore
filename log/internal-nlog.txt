@@ -1,0 +1,517 @@
+2019-02-17 17:54:34.5198 Info Message Template Auto Format enabled
+2019-02-17 17:54:34.5319 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 17:54:34.5841 Info Adding target File Target[allfile]
+2019-02-17 17:54:34.5841 Info Adding target File Target[ownFile-web]
+2019-02-17 17:54:34.5950 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 17:54:34.6143 Info Found 47 configuration items
+2019-02-17 18:56:19.6009 Info Logger closing down...
+2019-02-17 18:56:19.6009 Info Closing old configuration.
+2019-02-17 18:56:19.6111 Info Logger has been closed down.
+2019-02-17 18:56:19.6122 Info Shutting down logging...
+2019-02-17 18:56:19.6122 Info Logger has been shut down.
+2019-02-17 18:56:24.4232 Info Message Template Auto Format enabled
+2019-02-17 18:56:24.4320 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 18:56:24.4848 Info Adding target File Target[allfile]
+2019-02-17 18:56:24.4848 Info Adding target File Target[ownFile-web]
+2019-02-17 18:56:24.4946 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 18:56:24.5123 Info Found 47 configuration items
+2019-02-17 19:28:47.5252 Info Logger closing down...
+2019-02-17 19:28:47.5275 Info Closing old configuration.
+2019-02-17 19:28:47.5354 Info Logger has been closed down.
+2019-02-17 19:28:47.5367 Info Shutting down logging...
+2019-02-17 19:28:47.5367 Info Logger has been shut down.
+2019-02-17 19:28:52.1872 Info Message Template Auto Format enabled
+2019-02-17 19:28:52.1967 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 19:28:52.2462 Info Adding target File Target[allfile]
+2019-02-17 19:28:52.2486 Info Adding target File Target[ownFile-web]
+2019-02-17 19:28:52.2567 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 19:28:52.2746 Info Found 47 configuration items
+2019-02-17 20:02:03.3034 Info Logger closing down...
+2019-02-17 20:02:03.3056 Info Closing old configuration.
+2019-02-17 20:02:03.3163 Info Logger has been closed down.
+2019-02-17 20:02:03.3163 Info Shutting down logging...
+2019-02-17 20:02:03.3163 Info Logger has been shut down.
+2019-02-17 20:02:07.7665 Info Message Template Auto Format enabled
+2019-02-17 20:02:07.7750 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:02:07.8253 Info Adding target File Target[allfile]
+2019-02-17 20:02:07.8253 Info Adding target File Target[ownFile-web]
+2019-02-17 20:02:07.8356 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:02:07.8530 Info Found 47 configuration items
+2019-02-17 20:08:40.6386 Info Logger closing down...
+2019-02-17 20:08:40.6407 Info Closing old configuration.
+2019-02-17 20:08:40.6511 Info Logger has been closed down.
+2019-02-17 20:08:40.6527 Info Shutting down logging...
+2019-02-17 20:08:40.6527 Info Logger has been shut down.
+2019-02-17 20:08:45.1327 Info Message Template Auto Format enabled
+2019-02-17 20:08:45.1414 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:08:45.1932 Info Adding target File Target[allfile]
+2019-02-17 20:08:45.1957 Info Adding target File Target[ownFile-web]
+2019-02-17 20:08:45.2039 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:08:45.2222 Info Found 47 configuration items
+2019-02-17 20:10:56.9304 Info Logger closing down...
+2019-02-17 20:10:56.9332 Info Closing old configuration.
+2019-02-17 20:10:56.9415 Info Logger has been closed down.
+2019-02-17 20:10:56.9415 Info Shutting down logging...
+2019-02-17 20:10:56.9445 Info Logger has been shut down.
+2019-02-17 20:11:01.1840 Info Message Template Auto Format enabled
+2019-02-17 20:11:01.1930 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:11:01.2445 Info Adding target File Target[allfile]
+2019-02-17 20:11:01.2445 Info Adding target File Target[ownFile-web]
+2019-02-17 20:11:01.2553 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:11:01.2739 Info Found 47 configuration items
+2019-02-17 20:13:07.0341 Info Logger closing down...
+2019-02-17 20:13:07.0373 Info Closing old configuration.
+2019-02-17 20:13:07.0478 Info Logger has been closed down.
+2019-02-17 20:13:07.0478 Info Shutting down logging...
+2019-02-17 20:13:07.0517 Info Logger has been shut down.
+2019-02-17 20:13:11.6305 Info Message Template Auto Format enabled
+2019-02-17 20:13:11.6394 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:13:11.6889 Info Adding target File Target[allfile]
+2019-02-17 20:13:11.6889 Info Adding target File Target[ownFile-web]
+2019-02-17 20:13:11.6990 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:13:11.7167 Info Found 47 configuration items
+2019-02-17 20:18:43.0542 Info Logger closing down...
+2019-02-17 20:18:43.0585 Info Closing old configuration.
+2019-02-17 20:18:43.0701 Info Logger has been closed down.
+2019-02-17 20:18:43.0701 Info Shutting down logging...
+2019-02-17 20:18:43.0730 Info Logger has been shut down.
+2019-02-17 20:18:47.7561 Info Message Template Auto Format enabled
+2019-02-17 20:18:47.7650 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:18:47.8270 Info Adding target File Target[allfile]
+2019-02-17 20:18:47.8298 Info Adding target File Target[ownFile-web]
+2019-02-17 20:18:47.8391 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:18:47.8705 Info Found 47 configuration items
+2019-02-17 20:20:35.9887 Info Logger closing down...
+2019-02-17 20:20:35.9887 Info Closing old configuration.
+2019-02-17 20:20:36.0021 Info Logger has been closed down.
+2019-02-17 20:20:36.0021 Info Shutting down logging...
+2019-02-17 20:20:36.0054 Info Logger has been shut down.
+2019-02-17 20:20:40.7245 Info Message Template Auto Format enabled
+2019-02-17 20:20:40.7352 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:20:40.7977 Info Adding target File Target[allfile]
+2019-02-17 20:20:40.8005 Info Adding target File Target[ownFile-web]
+2019-02-17 20:20:40.8092 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:20:40.8347 Info Found 47 configuration items
+2019-02-17 20:26:59.3572 Info Logger closing down...
+2019-02-17 20:26:59.3603 Info Closing old configuration.
+2019-02-17 20:26:59.3701 Info Logger has been closed down.
+2019-02-17 20:26:59.3701 Info Shutting down logging...
+2019-02-17 20:26:59.3730 Info Logger has been shut down.
+2019-02-17 20:27:03.9466 Info Message Template Auto Format enabled
+2019-02-17 20:27:03.9553 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:27:04.0066 Info Adding target File Target[allfile]
+2019-02-17 20:27:04.0092 Info Adding target File Target[ownFile-web]
+2019-02-17 20:27:04.0172 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:27:04.0352 Info Found 47 configuration items
+2019-02-17 20:28:00.9315 Info Logger closing down...
+2019-02-17 20:28:00.9315 Info Closing old configuration.
+2019-02-17 20:28:00.9453 Info Logger has been closed down.
+2019-02-17 20:28:00.9453 Info Shutting down logging...
+2019-02-17 20:28:00.9485 Info Logger has been shut down.
+2019-02-17 20:28:05.2785 Info Message Template Auto Format enabled
+2019-02-17 20:28:05.2874 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:28:05.3370 Info Adding target File Target[allfile]
+2019-02-17 20:28:05.3370 Info Adding target File Target[ownFile-web]
+2019-02-17 20:28:05.3470 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:28:05.3670 Info Found 47 configuration items
+2019-02-17 20:43:32.8707 Info Logger closing down...
+2019-02-17 20:43:32.8730 Info Closing old configuration.
+2019-02-17 20:43:32.8826 Info Logger has been closed down.
+2019-02-17 20:43:32.8840 Info Shutting down logging...
+2019-02-17 20:43:32.8840 Info Logger has been shut down.
+2019-02-17 20:43:38.1231 Info Message Template Auto Format enabled
+2019-02-17 20:43:38.1321 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 20:43:38.1819 Info Adding target File Target[allfile]
+2019-02-17 20:43:38.1843 Info Adding target File Target[ownFile-web]
+2019-02-17 20:43:38.1925 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 20:43:38.2105 Info Found 47 configuration items
+2019-02-17 21:11:36.1394 Info Logger closing down...
+2019-02-17 21:11:36.1415 Info Closing old configuration.
+2019-02-17 21:11:36.1497 Info Logger has been closed down.
+2019-02-17 21:11:36.1497 Info Shutting down logging...
+2019-02-17 21:11:36.1528 Info Logger has been shut down.
+2019-02-17 21:11:40.4965 Info Message Template Auto Format enabled
+2019-02-17 21:11:40.5054 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 21:11:40.5552 Info Adding target File Target[allfile]
+2019-02-17 21:11:40.5576 Info Adding target File Target[ownFile-web]
+2019-02-17 21:11:40.5659 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 21:11:40.5843 Info Found 47 configuration items
+2019-02-17 21:13:28.7425 Info Logger closing down...
+2019-02-17 21:13:28.7461 Info Closing old configuration.
+2019-02-17 21:13:28.7543 Info Logger has been closed down.
+2019-02-17 21:13:28.7559 Info Shutting down logging...
+2019-02-17 21:13:28.7559 Info Logger has been shut down.
+2019-02-17 21:13:32.9054 Info Message Template Auto Format enabled
+2019-02-17 21:13:32.9157 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 21:13:32.9684 Info Adding target File Target[allfile]
+2019-02-17 21:13:32.9684 Info Adding target File Target[ownFile-web]
+2019-02-17 21:13:32.9788 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 21:13:32.9976 Info Found 47 configuration items
+2019-02-17 21:19:32.7947 Info Logger closing down...
+2019-02-17 21:19:32.7982 Info Closing old configuration.
+2019-02-17 21:19:32.8072 Info Logger has been closed down.
+2019-02-17 21:19:32.8087 Info Shutting down logging...
+2019-02-17 21:19:32.8087 Info Logger has been shut down.
+2019-02-17 21:19:36.9319 Info Message Template Auto Format enabled
+2019-02-17 21:19:36.9408 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 21:19:36.9912 Info Adding target File Target[allfile]
+2019-02-17 21:19:36.9937 Info Adding target File Target[ownFile-web]
+2019-02-17 21:19:37.0019 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 21:19:37.0199 Info Found 47 configuration items
+2019-02-17 21:22:41.2123 Info Logger closing down...
+2019-02-17 21:22:41.2160 Info Closing old configuration.
+2019-02-17 21:22:41.2261 Info Logger has been closed down.
+2019-02-17 21:22:41.2275 Info Shutting down logging...
+2019-02-17 21:22:41.2275 Info Logger has been shut down.
+2019-02-17 21:22:45.3462 Info Message Template Auto Format enabled
+2019-02-17 21:22:45.3550 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 21:22:45.4043 Info Adding target File Target[allfile]
+2019-02-17 21:22:45.4043 Info Adding target File Target[ownFile-web]
+2019-02-17 21:22:45.4151 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 21:22:45.4329 Info Found 47 configuration items
+2019-02-17 21:28:24.9226 Info Logger closing down...
+2019-02-17 21:28:24.9252 Info Closing old configuration.
+2019-02-17 21:28:24.9345 Info Logger has been closed down.
+2019-02-17 21:28:24.9362 Info Shutting down logging...
+2019-02-17 21:28:24.9362 Info Logger has been shut down.
+2019-02-17 21:28:29.6384 Info Message Template Auto Format enabled
+2019-02-17 21:28:29.6481 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 21:28:29.7007 Info Adding target File Target[allfile]
+2019-02-17 21:28:29.7007 Info Adding target File Target[ownFile-web]
+2019-02-17 21:28:29.7118 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 21:28:29.7303 Info Found 47 configuration items
+2019-02-17 21:33:38.5569 Info Logger closing down...
+2019-02-17 21:33:38.5569 Info Closing old configuration.
+2019-02-17 21:33:38.5696 Info Logger has been closed down.
+2019-02-17 21:33:38.5696 Info Shutting down logging...
+2019-02-17 21:33:38.5730 Info Logger has been shut down.
+2019-02-17 21:33:43.3573 Info Message Template Auto Format enabled
+2019-02-17 21:33:43.3660 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-17 21:33:43.4172 Info Adding target File Target[allfile]
+2019-02-17 21:33:43.4196 Info Adding target File Target[ownFile-web]
+2019-02-17 21:33:43.4279 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-17 21:33:43.4461 Info Found 47 configuration items
+2019-02-18 13:12:34.2425 Info Logger closing down...
+2019-02-18 13:12:34.2750 Info Closing old configuration.
+2019-02-18 13:12:34.3105 Info Logger has been closed down.
+2019-02-18 13:12:34.3105 Info Shutting down logging...
+2019-02-18 13:12:34.3105 Info Logger has been shut down.
+2019-02-18 13:55:08.6024 Info Message Template Auto Format enabled
+2019-02-18 13:55:08.6107 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 13:55:08.6597 Info Adding target File Target[allfile]
+2019-02-18 13:55:08.6619 Info Adding target File Target[ownFile-web]
+2019-02-18 13:55:08.6696 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 13:55:08.6870 Info Found 47 configuration items
+2019-02-18 14:04:15.9381 Info Logger closing down...
+2019-02-18 14:04:15.9842 Info Closing old configuration.
+2019-02-18 14:04:15.9943 Info Logger has been closed down.
+2019-02-18 14:04:15.9943 Info Shutting down logging...
+2019-02-18 14:04:15.9980 Info Logger has been shut down.
+2019-02-18 14:04:20.1751 Info Message Template Auto Format enabled
+2019-02-18 14:04:20.1838 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:04:20.2337 Info Adding target File Target[allfile]
+2019-02-18 14:04:20.2362 Info Adding target File Target[ownFile-web]
+2019-02-18 14:04:20.2443 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:04:20.2621 Info Found 47 configuration items
+2019-02-18 14:11:20.0245 Info Logger closing down...
+2019-02-18 14:11:20.0266 Info Closing old configuration.
+2019-02-18 14:11:20.0362 Info Logger has been closed down.
+2019-02-18 14:11:20.0362 Info Shutting down logging...
+2019-02-18 14:11:20.0386 Info Logger has been shut down.
+2019-02-18 14:11:23.6791 Info Message Template Auto Format enabled
+2019-02-18 14:11:23.6875 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:11:23.7386 Info Adding target File Target[allfile]
+2019-02-18 14:11:23.7386 Info Adding target File Target[ownFile-web]
+2019-02-18 14:11:23.7489 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:11:23.7666 Info Found 47 configuration items
+2019-02-18 14:19:55.8343 Info Logger closing down...
+2019-02-18 14:19:55.8343 Info Closing old configuration.
+2019-02-18 14:19:55.8463 Info Logger has been closed down.
+2019-02-18 14:19:55.8463 Info Shutting down logging...
+2019-02-18 14:19:55.8463 Info Logger has been shut down.
+2019-02-18 14:19:59.2456 Info Message Template Auto Format enabled
+2019-02-18 14:19:59.2552 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:19:59.3136 Info Adding target File Target[allfile]
+2019-02-18 14:19:59.3156 Info Adding target File Target[ownFile-web]
+2019-02-18 14:19:59.3243 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:19:59.3450 Info Found 47 configuration items
+2019-02-18 14:20:38.1568 Info Logger closing down...
+2019-02-18 14:20:38.1587 Info Closing old configuration.
+2019-02-18 14:20:38.1673 Info Logger has been closed down.
+2019-02-18 14:20:38.1673 Info Shutting down logging...
+2019-02-18 14:20:38.1707 Info Logger has been shut down.
+2019-02-18 14:20:41.2945 Info Message Template Auto Format enabled
+2019-02-18 14:20:41.3057 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:20:41.3576 Info Adding target File Target[allfile]
+2019-02-18 14:20:41.3599 Info Adding target File Target[ownFile-web]
+2019-02-18 14:20:41.3680 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:20:41.3869 Info Found 47 configuration items
+2019-02-18 14:22:06.5566 Info Logger closing down...
+2019-02-18 14:22:06.5590 Info Closing old configuration.
+2019-02-18 14:22:06.5670 Info Logger has been closed down.
+2019-02-18 14:22:06.5670 Info Shutting down logging...
+2019-02-18 14:22:06.5698 Info Logger has been shut down.
+2019-02-18 14:22:09.8933 Info Message Template Auto Format enabled
+2019-02-18 14:22:09.9020 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:22:09.9510 Info Adding target File Target[allfile]
+2019-02-18 14:22:09.9510 Info Adding target File Target[ownFile-web]
+2019-02-18 14:22:09.9608 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:22:09.9887 Info Found 47 configuration items
+2019-02-18 14:22:47.9837 Info Logger closing down...
+2019-02-18 14:22:47.9837 Info Closing old configuration.
+2019-02-18 14:22:47.9951 Info Logger has been closed down.
+2019-02-18 14:22:47.9951 Info Shutting down logging...
+2019-02-18 14:22:47.9951 Info Logger has been shut down.
+2019-02-18 14:22:51.2133 Info Message Template Auto Format enabled
+2019-02-18 14:22:51.2225 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:22:51.2747 Info Adding target File Target[allfile]
+2019-02-18 14:22:51.2747 Info Adding target File Target[ownFile-web]
+2019-02-18 14:22:51.2855 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:22:51.3053 Info Found 47 configuration items
+2019-02-18 14:28:31.5427 Info Logger closing down...
+2019-02-18 14:28:31.5427 Info Closing old configuration.
+2019-02-18 14:28:31.5542 Info Logger has been closed down.
+2019-02-18 14:28:31.5542 Info Shutting down logging...
+2019-02-18 14:28:31.5585 Info Logger has been shut down.
+2019-02-18 14:28:34.7719 Info Message Template Auto Format enabled
+2019-02-18 14:28:34.7807 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:28:34.8348 Info Adding target File Target[allfile]
+2019-02-18 14:28:34.8348 Info Adding target File Target[ownFile-web]
+2019-02-18 14:28:34.8452 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:28:34.8645 Info Found 47 configuration items
+2019-02-18 14:30:07.6047 Info Logger closing down...
+2019-02-18 14:30:07.6071 Info Closing old configuration.
+2019-02-18 14:30:07.6156 Info Logger has been closed down.
+2019-02-18 14:30:07.6156 Info Shutting down logging...
+2019-02-18 14:30:07.6187 Info Logger has been shut down.
+2019-02-18 14:30:10.7354 Info Message Template Auto Format enabled
+2019-02-18 14:30:10.7440 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:30:10.7955 Info Adding target File Target[allfile]
+2019-02-18 14:30:10.7982 Info Adding target File Target[ownFile-web]
+2019-02-18 14:30:10.8064 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:30:10.8273 Info Found 47 configuration items
+2019-02-18 14:31:01.1970 Info Logger closing down...
+2019-02-18 14:31:01.1991 Info Closing old configuration.
+2019-02-18 14:31:01.2074 Info Logger has been closed down.
+2019-02-18 14:31:01.2074 Info Shutting down logging...
+2019-02-18 14:31:01.2113 Info Logger has been shut down.
+2019-02-18 14:31:04.2828 Info Message Template Auto Format enabled
+2019-02-18 14:31:04.2921 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:31:04.3534 Info Adding target File Target[allfile]
+2019-02-18 14:31:04.3556 Info Adding target File Target[ownFile-web]
+2019-02-18 14:31:04.3636 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:31:04.3815 Info Found 47 configuration items
+2019-02-18 14:34:00.3862 Info Logger closing down...
+2019-02-18 14:34:00.3862 Info Closing old configuration.
+2019-02-18 14:34:00.3978 Info Logger has been closed down.
+2019-02-18 14:34:00.3978 Info Shutting down logging...
+2019-02-18 14:34:00.3978 Info Logger has been shut down.
+2019-02-18 14:35:12.8439 Info Message Template Auto Format enabled
+2019-02-18 14:35:12.8532 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:35:12.9084 Info Adding target File Target[allfile]
+2019-02-18 14:35:12.9113 Info Adding target File Target[ownFile-web]
+2019-02-18 14:35:12.9196 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:35:12.9389 Info Found 47 configuration items
+2019-02-18 14:37:52.4432 Info Logger closing down...
+2019-02-18 14:37:52.4432 Info Closing old configuration.
+2019-02-18 14:37:52.4547 Info Logger has been closed down.
+2019-02-18 14:37:52.4547 Info Shutting down logging...
+2019-02-18 14:37:52.4547 Info Logger has been shut down.
+2019-02-18 14:37:55.6819 Info Message Template Auto Format enabled
+2019-02-18 14:37:55.6912 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:37:55.7488 Info Adding target File Target[allfile]
+2019-02-18 14:37:55.7517 Info Adding target File Target[ownFile-web]
+2019-02-18 14:37:55.7605 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:37:55.7799 Info Found 47 configuration items
+2019-02-18 14:39:03.4632 Info Logger closing down...
+2019-02-18 14:39:03.4632 Info Closing old configuration.
+2019-02-18 14:39:03.4754 Info Logger has been closed down.
+2019-02-18 14:39:03.4754 Info Shutting down logging...
+2019-02-18 14:39:03.4781 Info Logger has been shut down.
+2019-02-18 14:39:06.6193 Info Message Template Auto Format enabled
+2019-02-18 14:39:06.6310 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:39:06.6954 Info Adding target File Target[allfile]
+2019-02-18 14:39:06.7001 Info Adding target File Target[ownFile-web]
+2019-02-18 14:39:06.7086 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:39:06.7295 Info Found 47 configuration items
+2019-02-18 14:41:16.2817 Info Logger closing down...
+2019-02-18 14:41:16.2850 Info Closing old configuration.
+2019-02-18 14:41:16.2952 Info Logger has been closed down.
+2019-02-18 14:41:16.2952 Info Shutting down logging...
+2019-02-18 14:41:16.2983 Info Logger has been shut down.
+2019-02-18 14:41:19.5153 Info Message Template Auto Format enabled
+2019-02-18 14:41:19.5244 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:41:19.5762 Info Adding target File Target[allfile]
+2019-02-18 14:41:19.5784 Info Adding target File Target[ownFile-web]
+2019-02-18 14:41:19.5871 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:41:19.6070 Info Found 47 configuration items
+2019-02-18 14:43:12.9051 Info Logger closing down...
+2019-02-18 14:43:12.9080 Info Closing old configuration.
+2019-02-18 14:43:12.9162 Info Logger has been closed down.
+2019-02-18 14:43:12.9162 Info Shutting down logging...
+2019-02-18 14:43:12.9194 Info Logger has been shut down.
+2019-02-18 14:43:15.6195 Info Message Template Auto Format enabled
+2019-02-18 14:43:15.6287 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:43:15.6794 Info Adding target File Target[allfile]
+2019-02-18 14:43:15.6818 Info Adding target File Target[ownFile-web]
+2019-02-18 14:43:15.6896 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:43:15.7073 Info Found 47 configuration items
+2019-02-18 14:43:32.1631 Info Logger closing down...
+2019-02-18 14:43:32.1631 Info Closing old configuration.
+2019-02-18 14:43:32.1740 Info Logger has been closed down.
+2019-02-18 14:43:32.1740 Info Shutting down logging...
+2019-02-18 14:43:32.1740 Info Logger has been shut down.
+2019-02-18 14:43:34.8678 Info Message Template Auto Format enabled
+2019-02-18 14:43:34.8766 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:43:34.9278 Info Adding target File Target[allfile]
+2019-02-18 14:43:34.9302 Info Adding target File Target[ownFile-web]
+2019-02-18 14:43:34.9386 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:43:34.9567 Info Found 47 configuration items
+2019-02-18 14:46:00.3040 Info Logger closing down...
+2019-02-18 14:46:00.3072 Info Closing old configuration.
+2019-02-18 14:46:00.3164 Info Logger has been closed down.
+2019-02-18 14:46:00.3177 Info Shutting down logging...
+2019-02-18 14:46:00.3177 Info Logger has been shut down.
+2019-02-18 14:46:03.4618 Info Message Template Auto Format enabled
+2019-02-18 14:46:03.4705 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:46:03.5203 Info Adding target File Target[allfile]
+2019-02-18 14:46:03.5228 Info Adding target File Target[ownFile-web]
+2019-02-18 14:46:03.5310 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:46:03.5488 Info Found 47 configuration items
+2019-02-18 14:47:24.1659 Info Logger closing down...
+2019-02-18 14:47:24.1659 Info Closing old configuration.
+2019-02-18 14:47:24.1762 Info Logger has been closed down.
+2019-02-18 14:47:24.1778 Info Shutting down logging...
+2019-02-18 14:47:24.1778 Info Logger has been shut down.
+2019-02-18 14:47:27.1851 Info Message Template Auto Format enabled
+2019-02-18 14:47:27.1946 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 14:47:27.2444 Info Adding target File Target[allfile]
+2019-02-18 14:47:27.2470 Info Adding target File Target[ownFile-web]
+2019-02-18 14:47:27.2552 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 14:47:27.2736 Info Found 47 configuration items
+2019-02-18 16:01:16.7175 Info Logger closing down...
+2019-02-18 16:01:16.7452 Info Closing old configuration.
+2019-02-18 16:01:16.7537 Info Logger has been closed down.
+2019-02-18 16:01:16.7548 Info Shutting down logging...
+2019-02-18 16:01:16.7548 Info Logger has been shut down.
+2019-02-18 16:01:22.4251 Info Message Template Auto Format enabled
+2019-02-18 16:01:22.4338 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 16:01:22.4831 Info Adding target File Target[allfile]
+2019-02-18 16:01:22.4859 Info Adding target File Target[ownFile-web]
+2019-02-18 16:01:22.4945 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 16:01:22.5122 Info Found 47 configuration items
+2019-02-18 16:05:11.6505 Info Logger closing down...
+2019-02-18 16:05:11.6505 Info Closing old configuration.
+2019-02-18 16:05:11.6615 Info Logger has been closed down.
+2019-02-18 16:05:11.6630 Info Shutting down logging...
+2019-02-18 16:05:11.6630 Info Logger has been shut down.
+2019-02-18 16:05:16.0074 Info Message Template Auto Format enabled
+2019-02-18 16:05:16.0165 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 16:05:16.0661 Info Adding target File Target[allfile]
+2019-02-18 16:05:16.0661 Info Adding target File Target[ownFile-web]
+2019-02-18 16:05:16.0766 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 16:05:16.0943 Info Found 47 configuration items
+2019-02-18 16:22:35.9605 Info Logger closing down...
+2019-02-18 16:22:35.9633 Info Closing old configuration.
+2019-02-18 16:22:35.9730 Info Logger has been closed down.
+2019-02-18 16:22:35.9745 Info Shutting down logging...
+2019-02-18 16:22:35.9745 Info Logger has been shut down.
+2019-02-18 16:22:41.2778 Info Message Template Auto Format enabled
+2019-02-18 16:22:41.2874 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 16:22:41.3397 Info Adding target File Target[allfile]
+2019-02-18 16:22:41.3418 Info Adding target File Target[ownFile-web]
+2019-02-18 16:22:41.3501 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 16:22:41.3680 Info Found 47 configuration items
+2019-02-18 16:23:08.7623 Info Logger closing down...
+2019-02-18 16:23:08.7623 Info Closing old configuration.
+2019-02-18 16:23:08.7740 Info Logger has been closed down.
+2019-02-18 16:23:08.7740 Info Shutting down logging...
+2019-02-18 16:23:08.7740 Info Logger has been shut down.
+2019-02-18 16:23:13.5050 Info Message Template Auto Format enabled
+2019-02-18 16:23:13.5141 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 16:23:13.5646 Info Adding target File Target[allfile]
+2019-02-18 16:23:13.5669 Info Adding target File Target[ownFile-web]
+2019-02-18 16:23:13.5750 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 16:23:13.5959 Info Found 47 configuration items
+2019-02-18 16:25:48.1771 Info Logger closing down...
+2019-02-18 16:25:48.1805 Info Closing old configuration.
+2019-02-18 16:25:48.1898 Info Logger has been closed down.
+2019-02-18 16:25:48.1898 Info Shutting down logging...
+2019-02-18 16:25:48.1944 Info Logger has been shut down.
+2019-02-18 16:25:52.8673 Info Message Template Auto Format enabled
+2019-02-18 16:25:52.8760 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 16:25:52.9255 Info Adding target File Target[allfile]
+2019-02-18 16:25:52.9276 Info Adding target File Target[ownFile-web]
+2019-02-18 16:25:52.9355 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 16:25:52.9532 Info Found 47 configuration items
+2019-02-18 16:39:32.5393 Info Logger closing down...
+2019-02-18 16:39:32.5425 Info Closing old configuration.
+2019-02-18 16:39:32.5512 Info Logger has been closed down.
+2019-02-18 16:39:32.5512 Info Shutting down logging...
+2019-02-18 16:39:32.5552 Info Logger has been shut down.
+2019-02-18 16:39:36.8517 Info Message Template Auto Format enabled
+2019-02-18 16:39:36.8601 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 16:39:36.9096 Info Adding target File Target[allfile]
+2019-02-18 16:39:36.9116 Info Adding target File Target[ownFile-web]
+2019-02-18 16:39:36.9197 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 16:39:36.9381 Info Found 47 configuration items
+2019-02-18 17:21:45.6449 Info Logger closing down...
+2019-02-18 17:21:45.6471 Info Closing old configuration.
+2019-02-18 17:21:45.6553 Info Logger has been closed down.
+2019-02-18 17:21:45.6553 Info Shutting down logging...
+2019-02-18 17:21:45.6581 Info Logger has been shut down.
+2019-02-18 17:21:49.8508 Info Message Template Auto Format enabled
+2019-02-18 17:21:49.8593 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 17:21:49.9087 Info Adding target File Target[allfile]
+2019-02-18 17:21:49.9109 Info Adding target File Target[ownFile-web]
+2019-02-18 17:21:49.9190 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 17:21:49.9372 Info Found 47 configuration items
+2019-02-18 17:25:33.9799 Info Logger closing down...
+2019-02-18 17:25:33.9829 Info Closing old configuration.
+2019-02-18 17:25:33.9929 Info Logger has been closed down.
+2019-02-18 17:25:33.9950 Info Shutting down logging...
+2019-02-18 17:25:33.9950 Info Logger has been shut down.
+2019-02-18 17:25:38.2108 Info Message Template Auto Format enabled
+2019-02-18 17:25:38.2201 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 17:25:38.2711 Info Adding target File Target[allfile]
+2019-02-18 17:25:38.2711 Info Adding target File Target[ownFile-web]
+2019-02-18 17:25:38.2815 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 17:25:38.3006 Info Found 47 configuration items
+2019-02-18 17:28:27.5657 Info Logger closing down...
+2019-02-18 17:28:27.5702 Info Closing old configuration.
+2019-02-18 17:28:27.5809 Info Logger has been closed down.
+2019-02-18 17:28:27.5819 Info Shutting down logging...
+2019-02-18 17:28:27.5819 Info Logger has been shut down.
+2019-02-18 17:28:32.6578 Info Message Template Auto Format enabled
+2019-02-18 17:28:32.6670 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 17:28:32.7167 Info Adding target File Target[allfile]
+2019-02-18 17:28:32.7188 Info Adding target File Target[ownFile-web]
+2019-02-18 17:28:32.7267 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 17:28:32.7445 Info Found 47 configuration items
+2019-02-18 17:34:48.4075 Info Logger closing down...
+2019-02-18 17:34:48.4110 Info Closing old configuration.
+2019-02-18 17:34:48.4194 Info Logger has been closed down.
+2019-02-18 17:34:48.4194 Info Shutting down logging...
+2019-02-18 17:34:48.4224 Info Logger has been shut down.
+2019-02-18 17:34:52.9541 Info Message Template Auto Format enabled
+2019-02-18 17:34:52.9627 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 17:34:53.0135 Info Adding target File Target[allfile]
+2019-02-18 17:34:53.0158 Info Adding target File Target[ownFile-web]
+2019-02-18 17:34:53.0238 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 17:34:53.0421 Info Found 47 configuration items
+2019-02-18 17:41:20.9878 Info Logger closing down...
+2019-02-18 17:41:21.0120 Info Closing old configuration.
+2019-02-18 17:41:21.0237 Info Logger has been closed down.
+2019-02-18 17:41:21.0237 Info Shutting down logging...
+2019-02-18 17:41:21.0266 Info Logger has been shut down.
+2019-02-18 17:41:25.4458 Info Message Template Auto Format enabled
+2019-02-18 17:41:25.4543 Info Loading assembly: NLog.Web.AspNetCore
+2019-02-18 17:41:25.5039 Info Adding target File Target[allfile]
+2019-02-18 17:41:25.5062 Info Adding target File Target[ownFile-web]
+2019-02-18 17:41:25.5142 Info Configured from an XML element in /home/aung/Projects/dotnetwalyou/bin/Debug/netcoreapp2.2/nlog.config...
+2019-02-18 17:41:25.5317 Info Found 47 configuration items
+2019-02-18 17:52:27.8272 Info Logger closing down...
+2019-02-18 17:52:27.8272 Info Closing old configuration.
+2019-02-18 17:52:27.8427 Info Logger has been closed down.
+2019-02-18 17:52:27.8427 Info Shutting down logging...
+2019-02-18 17:52:27.8460 Info Logger has been shut down.

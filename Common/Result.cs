@@ -1,7 +1,7 @@
 
     public class Result {
     public Result () {
-        this.StatusCode = "000";
+        this.StatusCode = ResultCodes.Success;
         this.Description = "Successfull Transaction";
     }
 
@@ -11,6 +11,7 @@
     }
     public string StatusCode {get;set;}
     public string Description {get;set;}
+    public object Data {get;set;}
 }
 
 
